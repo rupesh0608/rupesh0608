@@ -5,7 +5,7 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with K
 ### 🎍 Welcome to my hub 👨‍💻
 
 - 👦 Full stack @Android developer
-- 💼 Software Engineer @ [OnGraph Technologies Private Limited](https://www.ongraph.com/).
+- 💼 Software Engineer
 - 👨‍💻 ***#SelfTaught*** Developer.
 - 👨‍💻 I develop Mobile, Web apps and can also develop Backend server for apps.
 - Loves 🚴 and 🏸.
